@@ -1,5 +1,5 @@
 ## *Desafios html e css*
 
-- desafio Senai
-- desafio tabela
-- desafio formulário
+- desafio Senai 🏫
+- desafio tabela 🪟
+- desafio formulário 🪪
